@@ -1,5 +1,4 @@
 
-
 # GoQnA : Knowledge Sharing Platform
 
  
