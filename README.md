@@ -1,1 +1,1 @@
-# GoQnA
+# GoQnA : Knowledge Sharing Platform
