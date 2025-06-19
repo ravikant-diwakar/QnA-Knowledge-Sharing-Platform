@@ -18,7 +18,7 @@
 
 ## Overview
 
-GoQnA is a modern, full-featured **Q&A Knowledge Sharing Platform** built with React, TypeScript, and Firebase. It enables seamless knowledge sharing through community-driven questions and answers, supporting real-time interactions, rich text formatting, and intuitive user experience.
+GoQnA is a modern, full-featured **Q&A Knowledge Sharing Platform** built with React, TypeScript, and Firebase. It enables seamless knowledge sharing through community-driven questions and answers, supporting real-time interactions, rich text formatting, and intuitive user experience, and an AI-powered feature that allows users to generate instant answers for any posted question.
 
 ## Features
 
