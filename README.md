@@ -32,6 +32,7 @@ GoQnA is a modern, full-featured **Q&A Knowledge Sharing Platform** built with R
 - [x] Tag-based Categorization
 - [x] Real-time Notifications
 - [x] User Reputation System
+- [x] Generate AI Answer
 
 ### Advanced Features
 - [x]  **Question Management**
